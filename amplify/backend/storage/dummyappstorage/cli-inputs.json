@@ -1,0 +1,14 @@
+{
+  "resourceName": "dummyappstorage",
+  "policyUUID": "4a880bc9",
+  "bucketName": "dummyappbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
